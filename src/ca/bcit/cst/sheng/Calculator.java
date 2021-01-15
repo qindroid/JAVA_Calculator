@@ -24,6 +24,7 @@ import javafx.scene.text.Text;
 
 /**
  * @author Sheng Qin
+ * @author Boann 
  *
  */
 public class Calculator extends Application {
